@@ -1,4 +1,5 @@
-import dayjs from 'https://unpkg.com/dayjs@1.11.10/esm/index.js';
+import dayjs from 'https://cdn.jsdelivr.net/npm/dayjs@1.11.13/+esm';
+
 import { formatCurrency } from '../scripts/utils/money.js';
 
 export const deliveryOptions = [
